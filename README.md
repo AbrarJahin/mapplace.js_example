@@ -1,0 +1,1 @@
+# mapplace.js_example
