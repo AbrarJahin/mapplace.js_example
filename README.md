@@ -5,4 +5,6 @@ Some example of using Mapplace.JS
 
 1. Basic use
 
-2. 
+2. Fixing Width Issue with Bootstrap
+
+3. 
