@@ -7,4 +7,5 @@ Some example of using Mapplace.JS
 
 2. Fixing Width Issue with Bootstrap
 
-3. 
+More can be found-
+ http://maplacejs.com/
